@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-fileupload-1.3.1.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/commons-io-2.4.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/uires/bootstrap-fileinput-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/beans/upload/FileMeta.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/view/utils/filePathTools/FilePathTools.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
